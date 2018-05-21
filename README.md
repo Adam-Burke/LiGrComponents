@@ -1,2 +1,0 @@
-# LiGrComponents
-Created with CodeSandbox
